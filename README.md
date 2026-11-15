@@ -7,7 +7,9 @@ Atividade de Padrões de Projeto — **2º semestre ADS AMS (noite)**
 | Gustavo Mendes Ventieri Mariano |
 | Tiago Bryan Ramos de Oliveira |
 
-🎥 **Vídeo de defesa técnica:** _link do YouTube aqui_
+🎥 **Vídeo de defesa técnica:** https://youtu.be/RfdLDWc73aQ
+
+[![Vídeo de defesa técnica](https://i.ytimg.com/vi/RfdLDWc73aQ/hqdefault.jpg)](https://youtu.be/RfdLDWc73aQ)
 
 ---
 
