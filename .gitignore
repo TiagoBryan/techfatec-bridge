@@ -1,0 +1,6 @@
+out/
+saida/
+fontes.txt
+*.class
+.idea/
+.vscode/
